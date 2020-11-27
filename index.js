@@ -1,7 +1,7 @@
 const WhereBuilder = require('amenov.wherebuilderjs');
 
 module.exports = () => (req, res, next) => {
-  req.wherebuilder = async (target, raw) => {
+  req.wherebuilder = (target, raw) => {
     let request = {};
 
     if (!Array.isArray(target)) target = target.split();
