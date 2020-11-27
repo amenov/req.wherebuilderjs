@@ -1,0 +1,27 @@
+{
+  "name": "amenov.req.wherebuilderjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amenov/req.wherebuilderjs.git"
+  },
+  "keywords": [
+    "where",
+    "request",
+    "filter"
+  ],
+  "author": "Amenov Abdulsalam <amenov.abdulsalam@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amenov/req.wherebuilderjs/issues"
+  },
+  "homepage": "https://github.com/amenov/req.wherebuilderjs#readme",
+  "dependencies": {
+    "amenov.wherebuilderjs": "^1.0.1"
+  }
+}
