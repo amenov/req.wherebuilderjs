@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/amenov/req.wherebuilderjs#readme",
   "dependencies": {
-    "amenov.wherebuilderjs": "^1.0.3"
+    "amenov.wherebuilderjs": "^1.0.4"
   }
 }
